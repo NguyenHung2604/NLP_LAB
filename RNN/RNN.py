@@ -1,6 +1,6 @@
 import numpy as np
 import os
-# Thu vien os dung de thao tac truc tiep voi he dieu hanh may tinh
+# Thu vien os dung de thai tac truc tiep voi he dieu hanh may tinh
 
 # Direct path
 DATA_PATH = "tinyshakespeare_100k.txt" # test witch 100k first
