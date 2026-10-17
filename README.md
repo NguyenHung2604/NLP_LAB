@@ -1,4 +1,4 @@
-# NLP_LAB - MLP từ đầu
+# NLP_LAB - MLP, Transformer, LLama từ đầu
 
 Repository này dùng để tự xây dựng một MLP (Multi-Layer Perceptron) cho MNIST theo hướng học từ nền tảng, thay vì chỉ gọi sẵn thư viện high-level. Mục tiêu chính không phải là làm cho code ngắn nhất, mà là hiểu rõ luồng dữ liệu, công thức toán, và cách các tầng trong mạng học được từ dữ liệu.
 
